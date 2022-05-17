@@ -1,0 +1,2 @@
+print("....Enter the name of your stop....")
+print("Kalanki bafal swayambhu banasthali balaju gongabu samakushi basundhara maharajgunj chakrapath sukedhara dhumbarahi chabahil gaushala airport sinamangal koteshwor tinkune    ")
