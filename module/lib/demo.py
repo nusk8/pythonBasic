@@ -1,3 +1,2 @@
-
-et get_demo()
-return ("demo_file")
+def get_demo():
+    return "demo_file"
