@@ -64,8 +64,9 @@
 
 # print(help('modules'))
 
- import tkinter as tk
- ts=tk.TK()
- test=tkinter.label(tk,)
+ # import tkinter as tk
+ # ts=tk.TK()
+ # test=tkinter.label(tk,)
+
 
 
